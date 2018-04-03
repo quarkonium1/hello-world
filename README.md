@@ -1,2 +1,4 @@
 # hello-world
-my first repository!
+my first (test!) repository!
+almost like coding!
+nice and clean
